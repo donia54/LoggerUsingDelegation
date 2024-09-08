@@ -1,0 +1,8 @@
+C:\Users\AB\source\repos\LoggerWithDelegation\LoggerWithDelegation\bin\Debug\LoggerWithDelegation.exe.config
+C:\Users\AB\source\repos\LoggerWithDelegation\LoggerWithDelegation\bin\Debug\LoggerWithDelegation.exe
+C:\Users\AB\source\repos\LoggerWithDelegation\LoggerWithDelegation\bin\Debug\LoggerWithDelegation.pdb
+C:\Users\AB\source\repos\LoggerWithDelegation\LoggerWithDelegation\obj\Debug\LoggerWithDelegation.csproj.AssemblyReference.cache
+C:\Users\AB\source\repos\LoggerWithDelegation\LoggerWithDelegation\obj\Debug\LoggerWithDelegation.csproj.SuggestedBindingRedirects.cache
+C:\Users\AB\source\repos\LoggerWithDelegation\LoggerWithDelegation\obj\Debug\LoggerWithDelegation.csproj.CoreCompileInputs.cache
+C:\Users\AB\source\repos\LoggerWithDelegation\LoggerWithDelegation\obj\Debug\LoggerWithDelegation.exe
+C:\Users\AB\source\repos\LoggerWithDelegation\LoggerWithDelegation\obj\Debug\LoggerWithDelegation.pdb
